@@ -1,0 +1,12 @@
+b25e8b79f792eb2cedc87bfeccb8f028 *DESCRIPTION
+20fefa40b11f82c56f0a3ede0602fa4f *LICENSE
+3fbd8ebce6290e3461f658bd775cbf42 *NAMESPACE
+2724a458dfb267570e61757469165f51 *R/celebrate.r
+f00fa5e6de39545a4160029290b81d6f *README.md
+af8fcf09424bafefed3bbaf57d9866c5 *build/vignette.rds
+54ff99ee2c2af69700d3020a863ac1ff *inst/doc/happybirthday.R
+e40c89f8fc620b06a3bc44653ddb92a9 *inst/doc/happybirthday.Rmd
+820848ea57091b0101b45bf194f44b61 *inst/doc/happybirthday.pdf
+c9446bb11fef2bc4b13c1501f3879097 *man/celebrate.Rd
+e40c89f8fc620b06a3bc44653ddb92a9 *vignettes/happybirthday.Rmd
+f94005f8a304ab2b20033143ff0edad8 *vignettes/happybirthday.html
